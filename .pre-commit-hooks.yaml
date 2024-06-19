@@ -1,0 +1,12 @@
+- id: gofmt 
+  entry: "gofmt"
+  pass_filenames: false
+  name: gofmt 
+  language: golang 
+  description: 'go formatter'
+- id: govet
+  entry: "govet"
+  pass_filenames: false
+  name: govet
+  language: golang 
+  description: 'go vet'
