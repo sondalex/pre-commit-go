@@ -1,11 +1,11 @@
 - id: gofmt 
-  entry: "gofmt"
+  entry: "pcgofmt"
   pass_filenames: false
   name: gofmt 
   language: golang 
   description: 'go formatter'
 - id: govet
-  entry: "govet"
+  entry: "pcgovet"
   pass_filenames: false
   name: govet
   language: golang 
